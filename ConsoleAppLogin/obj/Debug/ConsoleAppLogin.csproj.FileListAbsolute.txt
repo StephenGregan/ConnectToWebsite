@@ -150,3 +150,5 @@ C:\Users\Ronan\source\repos\ConsoleAppLogin\ConsoleAppLogin\bin\Debug\System.Dia
 C:\Users\Ronan\source\repos\ConsoleAppLogin\ConsoleAppLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Ronan\source\repos\ConsoleAppLogin\ConsoleAppLogin\obj\Debug\ConsoleAppLogin.exe.config
 C:\Users\Ronan\source\repos\ConsoleAppLogin\ConsoleAppLogin\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Ronan\source\repos\ConsoleAppLogin\ConsoleAppLogin\bin\Debug\Vse.Web.Serialization.dll
+C:\Users\Ronan\source\repos\ConsoleAppLogin\ConsoleAppLogin\bin\Debug\Vse.Web.Serialization.pdb
