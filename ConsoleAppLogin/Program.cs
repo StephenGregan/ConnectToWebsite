@@ -33,8 +33,8 @@ namespace ConsoleAppLogin
             {
                 var values = new NameValueCollection
             {
-                { "j_username", "stephenG@translation.ie" },
-                { "j_password", "3m3Fogz3" },
+                { "j_username", "[Username]" },
+                { "j_password", "[Password]" },
             };
                 Console.WriteLine("Validating username and password....\n");
 
